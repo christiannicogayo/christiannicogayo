@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @christiannicogayo
 - 👀 I’m interested in data analytics, data science, statistics, and machine learning
-- 🌱 I’m currently studying SQL, Python, and daa visualization using PowerBI and Tableau
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying SQL, Python, and data visualization using PowerBI and Tableau
 - 📫 Reach out through my email at gayo.christiannico@gmail.com
 
 <!---
